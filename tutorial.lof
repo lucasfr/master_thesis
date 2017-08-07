@@ -1,0 +1,58 @@
+\select@language {brazil}
+\contentsline {figure}{\numberline {1}{\ignorespaces Formas euclidianas, neste caso, retas, e uma fotografia dos galhos de uma \IeC {\'a}rvore. A forma natural exibe mais complexidade.\relax }}{29}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces ref1}}{29}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces ref2}}{29}
+\contentsline {figure}{\numberline {2}{\ignorespaces Curva de Koch. Fonte: \citeonline {TeseGar}\relax }}{30}
+\contentsline {figure}{\numberline {3}{\ignorespaces Esponja de Menger. Fonte: \citeonline {TeseGar}\relax }}{30}
+\contentsline {figure}{\numberline {4}{\ignorespaces Exemplo de procedimento para calculo de $D$ a partir do m\IeC {\'e}todo de contagem de caixas para uma figura qualquer em um plano.\relax }}{33}
+\contentsline {figure}{\numberline {5}{\ignorespaces Gr\IeC {\'a}fico em escala log para os valores de $\delta $ e $N(\delta )$. A inclina\IeC {\c c}\IeC {\~a}o da reta apresentou um valor de $D=1,4$.\relax }}{33}
+\contentsline {figure}{\numberline {6}{\ignorespaces Autossimilaridade em um fractal. A figura mant\IeC {\'e}m as mesmas caracter\IeC {\'\i }sticas ap\IeC {\'o}s sucessivas amplia\IeC {\c c}\IeC {\~o}es. Fonte: \citeonline {JoseGar}\relax }}{34}
+\contentsline {figure}{\numberline {7}{\ignorespaces Exemplo de estrutura auto-afim com fator de escala 4 na horizontal e 2 na vertical. Fonte: \citeonline {TeseGar}\relax }}{35}
+\contentsline {figure}{\numberline {8}{\ignorespaces Exemplos de s\IeC {\'e}ries temporais com diferentes valores de $H$. $H=0.1$, $H=0.5$ e $H=0.9$, respectivamente. Fonte: \citeonline {JoseGar}\relax }}{37}
+\contentsline {figure}{\numberline {9}{\ignorespaces Exemplo de espectro de dimens\IeC {\~o}es generalizadas $D_{q}$. Neste caso, $q$ varia de -25 a 25.\relax }}{40}
+\contentsline {figure}{\numberline {10}{\ignorespaces Exemplo de espectro de $f(\alpha )$. A curva tem o formato de uma par\IeC {\'a}bola.\relax }}{42}
+\contentsline {figure}{\numberline {11}{\ignorespaces An\IeC {\'a}lise dos lados direito ($\alpha _{0} - \alpha _{q+}$) e esquerdo ($\alpha _{q-} - \alpha _{0}$) da par\IeC {\'a}bola do espectro de $f(\alpha )$ .\relax }}{43}
+\contentsline {figure}{\numberline {12}{\ignorespaces Exemplo de s\IeC {\'e}rie temporal de atividade de um indiv\IeC {\'\i }duo. Este perfil foi coletado de um indiv\IeC {\'\i }duo do grupo de sujeitos saud\IeC {\'a}veis.\relax }}{46}
+\contentsline {figure}{\numberline {13}{\ignorespaces S\IeC {\'e}rie temporal de atividade de um indiv\IeC {\'\i }duo saud\IeC {\'a}vel. Os estados de vig\IeC {\'\i }lia e sono foram destacados nas cores azul e vermelha, respectivamente.\relax }}{47}
+\contentsline {figure}{\numberline {14}{\ignorespaces S\IeC {\'e}ries de atividade para um indiv\IeC {\'\i }duo com fibromialgia ap\IeC {\'o}s a segmenta\IeC {\c c}\IeC {\~a}o e o empilhamento do registro original.\relax }}{48}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces serieativo}}{48}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces seriesono}}{48}
+\contentsline {figure}{\numberline {15}{\ignorespaces Distribui\IeC {\c c}\IeC {\~a}o de atividade para a s\IeC {\'e}rie actigr\IeC {\'a}fica de um indiv\IeC {\'\i }duo com fibromialgia. $P(A)$ representa a probabilidade acumulada de um valor de atividade $A$.\relax }}{49}
+\contentsline {figure}{\numberline {16}{\ignorespaces Distribui\IeC {\c c}\IeC {\~o}es de atividade para os estados sono e vig\IeC {\'\i }lia de um indiv\IeC {\'\i }duo saud\IeC {\'a}vel. $P(A)$ representa a probabilidade acumulada de um valor de atividade $A$.\relax }}{49}
+\contentsline {figure}{\numberline {17}{\ignorespaces Exemplo de janela deslizante. O c\IeC {\'a}lculo \IeC {\'e} realizado com os pontos contidos na janela 1, a mesma \IeC {\'e}, ent\IeC {\~a}o deslocada e o c\IeC {\'a}lculo \IeC {\'e} realizado novamente com os pontos contidos na janela 2.\relax }}{51}
+\contentsline {figure}{\numberline {18}{\ignorespaces Espectro de $f(\alpha )$ obtido para um indiv\IeC {\'\i }duo saud\IeC {\'a}vel a partir do m\IeC {\'e}todo MFDMA.\relax }}{53}
+\contentsline {figure}{\numberline {19}{\ignorespaces Espectros de $f(\alpha )$ para os estados sono e vig\IeC {\'\i }lia obtidos para um indiv\IeC {\'\i }duo com fibromialgia a partir do m\IeC {\'e}todo de Chhabra-Jensen\relax }}{54}
+\contentsline {figure}{\numberline {20}{\ignorespaces Distribui\IeC {\c c}\IeC {\~a}o acumulada de atividades para indiv\IeC {\'\i }duos saud\IeC {\'a}veis.\relax }}{55}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces h_semi}}{55}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces h_log}}{55}
+\contentsline {figure}{\numberline {21}{\ignorespaces Distribui\IeC {\c c}\IeC {\~a}o acumulada de atividades para indiv\IeC {\'\i }duos com fibromialgia.\relax }}{55}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces f_semi}}{55}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces f_log}}{55}
+\contentsline {figure}{\numberline {22}{\ignorespaces Distribui\IeC {\c c}\IeC {\~a}o acumulada de atividades para o estado ativo para indiv\IeC {\'\i }duos saud\IeC {\'a}veis.\relax }}{56}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces h_semi}}{56}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces h_log}}{56}
+\contentsline {figure}{\numberline {23}{\ignorespaces Distribui\IeC {\c c}\IeC {\~a}o acumulada de atividades para o estado ativo para indiv\IeC {\'\i }duos com fibromialgia.\relax }}{56}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces f_semi}}{56}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces f_log}}{56}
+\contentsline {figure}{\numberline {24}{\ignorespaces Distribui\IeC {\c c}\IeC {\~a}o acumulada de atividades para o estado sono para indiv\IeC {\'\i }duos saud\IeC {\'a}veis.\relax }}{57}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces h_semi}}{57}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces h_log}}{57}
+\contentsline {figure}{\numberline {25}{\ignorespaces Distribui\IeC {\c c}\IeC {\~a}o acumulada de atividades para o estado sono para indiv\IeC {\'\i }duos com fibromialgia.\relax }}{57}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces f_semi}}{57}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces f_log}}{57}
+\contentsline {figure}{\numberline {26}{\ignorespaces Valores do coeficiente de correla\IeC {\c c}\IeC {\~a}o $R^2$ para um ajuste exponencial das distribui\IeC {\c c}\IeC {\~o}es de atividade de sujeitos dos dois grupos de indiv\IeC {\'\i }duos.\relax }}{59}
+\contentsline {figure}{\numberline {27}{\ignorespaces Valores do expoente de Hurst obtidos para sujeitos saud\IeC {\'a}veis e pacientes com fibromialgia.\relax }}{60}
+\contentsline {figure}{\numberline {28}{\ignorespaces Espectros de $f(\alpha )$ para indiv\IeC {\'\i }duos saud\IeC {\'a}veis obtidos a partir do m\IeC {\'e}todo MFDMA.\relax }}{61}
+\contentsline {figure}{\numberline {29}{\ignorespaces Espectros de $f(\alpha )$ para indiv\IeC {\'\i }duos com fibromialgia obtidos a partir do m\IeC {\'e}todo MFDMA.\relax }}{61}
+\contentsline {figure}{\numberline {30}{\ignorespaces Curvas de $f(\alpha )$ para os estados de sono e vig\IeC {\'\i }lia de indiv\IeC {\'\i }duos com fibromialgia obtidos a partir do m\IeC {\'e}todo de Chhabra-Jensen.\relax }}{62}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces ch_fm_active}}{62}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces ch_fm_sleep}}{62}
+\contentsline {figure}{\numberline {31}{\ignorespaces Curvas de $f(\alpha )$ para os estados de sono e vig\IeC {\'\i }lia de sujeitos saud\IeC {\'a}veis obtidos a partir do m\IeC {\'e}todo de Chhabra-Jensen.\relax }}{62}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces ch_hm_active}}{62}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces ch_hm_sleep}}{62}
+\contentsline {figure}{\numberline {32}{\ignorespaces Curvas de $f(\alpha )$ para os estados de sono e vig\IeC {\'\i }lia.\relax }}{63}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces ch_fm_all}}{63}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces ch_hm_all}}{63}
+\contentsline {figure}{\numberline {33}{\ignorespaces Valores da medida do lado direito da par\IeC {\'a}bola ($\alpha _{q-} - \alpha _{0}$) para sujeitos saud\IeC {\'a}veis e pacientes com fibromialgia. F indica os pacientes com fibromialgia e S os sujeitos saud\IeC {\'a}veis.\relax }}{64}
+\contentsline {figure}{\numberline {34}{\ignorespaces Valores da medida do lado esquerdo da par\IeC {\'a}bola ($\alpha _{0} - \alpha _{q+}$) para sujeitos saud\IeC {\'a}veis e pacientes com fibromialgia. F indica os pacientes com fibromialgia e S os sujeitos saud\IeC {\'a}veis.\relax }}{64}
+\contentsline {figure}{\numberline {35}{\ignorespaces Valores da medida de $D_{0}$ para sujeitos saud\IeC {\'a}veis e pacientes com fibromialgia. F indica os pacientes com fibromialgia e S os sujeitos saud\IeC {\'a}veis.\relax }}{65}
